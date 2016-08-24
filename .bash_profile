@@ -1,1 +1,1 @@
-/Users/joyce/.bash_profile
+export PS1="🐹  \w \$\[\] "
